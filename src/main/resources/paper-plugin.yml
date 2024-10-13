@@ -1,0 +1,4 @@
+name: VersOne
+version: '1.0'
+main: net.civicraft.versOne.VersOne
+api-version: '1.21'
